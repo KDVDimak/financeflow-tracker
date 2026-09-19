@@ -1,1 +1,1 @@
-# financeflow-tracker
+# FinanceFlow — Personal Finance Tracker
